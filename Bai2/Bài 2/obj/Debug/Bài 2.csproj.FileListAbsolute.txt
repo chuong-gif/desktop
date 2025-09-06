@@ -1,0 +1,23 @@
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\Bài 2\bin\Debug\Bài 2.exe.config
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\Bài 2\bin\Debug\Bài 2.exe
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\Bài 2\bin\Debug\Bài 2.pdb
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\Bài 2\obj\Debug\Bài 2.csproj.AssemblyReference.cache
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\Bài 2\obj\Debug\Bài_2.MainForm.resources
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\Bài 2\obj\Debug\Bài_2.Properties.Resources.resources
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\Bài 2\obj\Debug\Bài 2.csproj.GenerateResource.cache
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\Bài 2\obj\Debug\Bài 2.csproj.CoreCompileInputs.cache
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\Bài 2\obj\Debug\Bài 2.exe
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\Bài 2\obj\Debug\Bài 2.pdb
+C:\Users\PC602\Downloads\Desktop\Bai2\Bài 2\bin\Debug\Bài 2.exe.config
+C:\Users\PC602\Downloads\Desktop\Bai2\Bài 2\bin\Debug\Bài 2.exe
+C:\Users\PC602\Downloads\Desktop\Bai2\Bài 2\bin\Debug\Bài 2.pdb
+C:\Users\PC602\Downloads\Desktop\Bai2\Bài 2\obj\Debug\Bài 2.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Desktop\Bai2\Bài 2\obj\Debug\Bài_2.MainForm.resources
+C:\Users\PC602\Downloads\Desktop\Bai2\Bài 2\obj\Debug\Bài_2.Properties.Resources.resources
+C:\Users\PC602\Downloads\Desktop\Bai2\Bài 2\obj\Debug\Bài 2.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\Desktop\Bai2\Bài 2\obj\Debug\Bài 2.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Desktop\Bai2\Bài 2\obj\Debug\Bài 2.exe
+C:\Users\PC602\Downloads\Desktop\Bai2\Bài 2\obj\Debug\Bài 2.pdb
+C:\Users\PC602\Documents\Desktop\Bai2\Bài 2\obj\Debug\Bài 2.csproj.AssemblyReference.cache
+C:\Users\PC602\Documents\Desktop\Bai2\Bài 2\obj\Debug\Bài 2.exe
+C:\Users\PC602\Documents\Desktop\Bai2\Bài 2\obj\Debug\Bài 2.pdb

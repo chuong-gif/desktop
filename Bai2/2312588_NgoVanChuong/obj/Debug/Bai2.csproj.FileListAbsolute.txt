@@ -1,0 +1,11 @@
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\bin\Debug\2312565_NguyenVanAn.exe.config
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\bin\Debug\2312565_NguyenVanAn.exe
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\bin\Debug\2312565_NguyenVanAn.pdb
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\obj\Debug\Bai2.csproj.AssemblyReference.cache
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\obj\Debug\_2312565_NguyenVanAn.Form1.resources
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\obj\Debug\_2312565_NguyenVanAn.Properties.Resources.resources
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\obj\Debug\Bai2.csproj.GenerateResource.cache
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\obj\Debug\2312565_NguyenVanAn.exe
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\obj\Debug\2312565_NguyenVanAn.pdb
+D:\Bài Tập\Desktop\2312565_NguyenVanAn\2312565_NguyenVanAn\obj\Debug\Bai2.MainForm.resources
