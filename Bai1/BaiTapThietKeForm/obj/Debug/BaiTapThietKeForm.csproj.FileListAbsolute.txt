@@ -1,0 +1,28 @@
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe.config
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.pdb
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.AssemblyReference.cache
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Form3.resources
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.FormChinh.resources
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Properties.Resources.resources
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.GenerateResource.cache
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Form2.resources
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Form4.resources
+D:\Bài Tập\Desktop\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Form1.resources
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe.config
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.pdb
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.AssemblyReference.cache
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Form1.resources
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Form2.resources
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Form3.resources
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Form4.resources
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.FormChinh.resources
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Properties.Resources.resources
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.GenerateResource.cache
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
+C:\Users\PC602\Documents\Desktop\Bai1\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
